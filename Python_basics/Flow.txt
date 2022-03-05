@@ -1,0 +1,24 @@
+1. Understanding Varaibles and Data types
+2. Advance Data Types
+3. Comparison and Boolean Operators
+4. Program Control flow
+5. Methods working with reusable code
+6. Exception Handling
+7. Object Oriented Programming
+8. Working with files
+9. Selenium WebDriver Running Tests On Various Browsers
+10. Advance Locators CSS
+11. Selenium WebDriver Working With Web Elements
+12. Selenium WebDriver Use ful Methods And Properties
+13. SeleniumWebDriver_Advanced(120-128)
+14. SeleniumWebDriver_SwitchWindowAndIFrame(130-133)
+15. SeleniumWebDriver_WorkingWithActionsClass(134-136)
+16. Logging Infrastructure
+16. Pytest_AdvancedTestingFramework(148-160)
+17. AutomationFramework_Part_1
+18. AutomationFramework_Part_2
+19. AutomationFramework_Part_3
+20. AutomationFramework_Part_4
+21. Data Driven Testing
+22. Running Complete Test Suite
+ 
